@@ -1,0 +1,13 @@
+div {
+    margin: auto;
+    width: 400px;
+    background-color: #f7f381;
+    border-style: solid;
+}
+h1{
+    margin-left: 20px;
+}
+p{
+    font-size: 20px;
+text-align: center;
+}
