@@ -1,0 +1,57 @@
+body > header{
+    margin-top: 10px;
+    font-size:large ;
+    font-weight: bold;
+}
+
+body{
+    background-color: white;
+    
+}
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgb(93, 67, 67);
+    text-align: center;
+    font-weight: bold;
+}
+nav ul li {
+    display: inline;
+    padding: 30px;
+}
+nav ul li a {
+    color: antiquewhite;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    color: red;
+    text-decoration: underline;
+}
+.Education h1 {
+color:rgb(56, 122, 122);
+text-decoration: underline;
+}
+.Work_Experience h1 {
+    color:rgb(56, 122, 122);
+    text-decoration: underline;
+}
+.Skills h1 {
+color:rgb(56, 122, 122);
+text-decoration: underline;
+}
+.Contact h1{
+    color:rgb(56, 122, 122);
+    text-decoration: underline;
+}
+footer{
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    padding-top: 10px;
+    padding: auto;
+    font-weight: bold;
+}
