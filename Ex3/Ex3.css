@@ -1,0 +1,18 @@
+.Container1{
+    display: none;
+}
+.Container img{
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px #aaa;
+}
+.P1{
+    font-weight: bold;
+}
+.P2{
+    font-style: italic;
+}
+.P2:before{
+
+}
